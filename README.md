@@ -1,6 +1,3 @@
-# Principal-Component-Analysis-PCA-for-Dimensionality-Reduction
-This project demonstrates Principal Component Analysis (PCA) for dimensionality reduction using a real-world dataset. 
-
 # Principal Component Analysis (PCA) for Dimensionality Reduction
 
 ## 📌 Overview
@@ -19,11 +16,11 @@ This project demonstrates **Principal Component Analysis (PCA)** for **dimension
 
 ## 🛠️ Dependencies
 
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn.
 
 
 ## 📊 Dataset
