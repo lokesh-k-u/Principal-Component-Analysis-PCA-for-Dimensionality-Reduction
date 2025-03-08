@@ -36,8 +36,11 @@ We use a real-world dataset (e.g., **Wine dataset** or **Iris dataset**) availab
 
 ## 📈 Results & Insights
 ✅ PCA reduces the number of features while keeping key patterns.
+
 ✅ The explained variance graph helps in selecting the optimal number of components.
+
 ✅ Model performance before & after PCA is compared to check effectiveness.
+
 ✅ PCA can remove noise and improve computation time for large datasets.
 
 ## 🤝 Contributions
